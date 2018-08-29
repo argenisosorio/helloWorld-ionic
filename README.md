@@ -32,7 +32,7 @@ $ node -v
 # npm install -g cordova ionic
 ```
 
-<p>Verificar la versión de ionic instalada de ionic:</p>
+<p>Verificar la versión de ionic instalada:</p>
 
 ```
 $ ionic -v
