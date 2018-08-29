@@ -52,3 +52,7 @@ $ ionic serve
 
 <p>Luego de que se instale lo necesario deberíamos poder ver nuestra app en el navegador, desde
 la misma consola de comandos se nos indicara cual es la IP y el puerto para verla desde el navegador web.</p>
+
+<hr />
+
+<a href="https://github.com/argenisosorio/GuiasLenguajes/blob/master/Ionic.txt">Más documentación sobre Ionic Framework aquí</a>
